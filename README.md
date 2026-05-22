@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 你好，我是 Dora Shen
 
-<!--
-**Dorashen-AI/Dorashen-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+欢迎来到我的 GitHub 主页！
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 关于我
+- 📍 地点：上海
+- 💼 职业：工业物联网 & 智能仓储工具开发者
+- 🎯 专注方向：工业资产追踪、标签管理应用开发
+
+### 🔧 我的项目
+- **世电精灵APP**：面向工业场景的智能资产与标签管理工具，致力于为仓储管理提供高效、便捷的数字化解决方案。
+
+### 📚 技术与成长
+- 正在学习 Git 版本控制、Android 应用开发与串口通信技术
+- 探索物联网技术在工业设备管理中的应用
+- 持续提升英语与编程能力，为适应行业发展做好准备
+
+### 🏃 我的爱好
+我喜欢跑步和登山，在挑战自我的同时，享受大自然的宁静与美丽，也在过程中锻炼毅力，为技术探索攒足精力。
+
+---
+
+如果你对工业物联网、仓储管理相关的话题感兴趣，欢迎和我交流！😊
