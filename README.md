@@ -1,3 +1,5 @@
+<img width="592" height="139" alt="W+中文+英文 logo 蓝色" src="https://github.com/user-attachments/assets/dd1e5c44-8fe8-42c5-a730-1114267d8e6a" />
+
 # 👋 你好，我是 Dora Shen
 
 欢迎来到我的 GitHub 主页！
